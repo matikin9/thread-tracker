@@ -1,0 +1,107 @@
+{
+	"name" : "Pretty Little Hong Kong",
+	"designer" : "Satsuma Street",
+	"thread brand" : "DMC",
+	"colors" : [
+		{
+			"number" : "918",
+			"description" : "Red Copper dark"
+		},
+		{
+			"number" : "900",
+			"description" : "Burnt Orange dark"
+		},
+		{
+			"number" : "666",
+			"description" : "Christmas Red bright"
+		},
+		{
+			"number" : "722",
+			"description" : "Orange Spice light"
+		},
+		{
+			"number" : "741",
+			"description" : "Tangerine medium"
+		},
+		{
+			"number" : "3855",
+			"description" : "Autumn Gold light"
+		},
+		{
+			"number" : "3852",
+			"description" : "Straw very dark"
+		},
+		{
+			"number" : "780",
+			"description" : "Topaz ultra very dark"
+		},
+		{
+			"number" : "902",
+			"description" : "Garnet very dark"
+		},
+		{
+			"number" : "917",
+			"description" : "Plum medium"
+		},
+		{
+			"number" : "3607",
+			"description" : "Plum light"
+		},
+		{
+			"number" : "3609",
+			"description" : "Plum ultra light"
+		},
+		{
+			"number" : "600",
+			"description" : "Cranberry very dark"
+		},
+		{
+			"number" : "956",
+			"description" : "Geranium"
+		},
+		{
+			"number" : "3708",
+			"description" : "Melon light"
+		},
+		{
+			"number" : "352",
+			"description" : "Coral light"
+		},
+		{
+			"number" : "967",
+			"description" : "Apricot very light"
+		},
+		{
+			"number" : "3774",
+			"description" : "Desert Sand very lt"
+		},
+		{
+			"number" : "3761",
+			"description" : "Sky Blue light"
+		},
+		{
+			"number" : "3755",
+			"description" : "Baby Blue"
+		},
+		{
+			"number" : "806",
+			"description" : "Peacock Blue"
+		},
+		{
+			"number" : "3844",
+			"description" : "Turquoise dk"
+		},
+		{
+			"number" : "825",
+			"description" : "Blue dark"
+		},
+		{
+			"number" : "3371",
+			"description" : "Black Brown"
+		},
+		{
+			"number" : "3865",
+			"description" : "Winter White"
+		}
+	]
+}

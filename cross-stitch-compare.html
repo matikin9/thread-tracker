@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<title>Cross-Stitch Compare</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+	<script src="script/script.js"></script>
+</head>
+
+<!-- TODO: Integrate Foundation -->
+<body>
+	<div class="intro">
+	</div>
+	<ul class="log">
+	</ul>
+
+	<script>
+		$().ready(function() {
+			var json_dc = "../data/pretty-little-dc.json";
+			var json_sf = "../data/pretty-little-san-francisco.json";
+			var json_hk = "../data/pretty-little-hk.json";
+			var json_chicago = "../data/pretty-little-chicago.json";
+
+			compare_cross_stitch_json(json_chicago, json_hk);
+		});
+	</script>
+</body>
+
+</html>

@@ -1,0 +1,107 @@
+{ 
+	"name" : "Pretty Little Washington DC",
+	"designer" : "Satsuma Street",
+	"thread brand" : "DMC",
+	"colors" : [
+		{
+			"number" : "163",
+			"description" : "Green Celadon MD"
+		},
+		{
+			"number" : "169",
+			"description" : "Pewter LT"
+		},
+		{
+			"number" : "316",
+			"description" : "Mauve Antique MD"
+		},
+		{
+			"number" : "347",
+			"description" : "Salmon V DK"
+		},
+		{
+			"number" : "453",
+			"description" : "Gray Shell LT"
+		},
+		{
+			"number" : "676",
+			"description" : "Old Gold LT"
+		},
+		{
+			"number" : "680",
+			"description" : "Old Gold DK"
+		},
+		{
+			"number" : "703",
+			"description" : "Chartreuse"
+		},
+		{
+			"number" : "746",
+			"description" : "White Off"
+		},
+		{
+			"number" : "747",
+			"description" : "Blue Sky V LT"
+		},
+		{
+			"number" : "780",
+			"description" : "Topaz Ultra V DK"
+		},
+		{
+			"number" : "799",
+			"description" : "Blue Delft MD"
+		},
+		{
+			"number" : "803",
+			"description" : "Blue Baby Ultra V DK"
+		},
+		{
+			"number" : "807",
+			"description" : "Blue Peacock"
+		},
+		{
+			"number" : "963",
+			"description" : "Ultra V LT Dusty Rose"
+		},
+		{
+			"number" : "964",
+			"description" : "Green Sea LT"
+		},
+		{
+			"number" : "3042",
+			"description" : "Violet LT Antique"
+		},
+		{
+			"number" : "3072",
+			"description" : "Gray Beaver V LT"
+		},
+		{
+			"number" : "3371",
+			"description" : "Black Brown"
+		},
+		{
+			"number" : "3608",
+			"description" : "Plum V LT"
+		},
+		{
+			"number" : "3708",
+			"description" : "Melon LT"
+		},
+		{
+			"number" : "3803",
+			"description" : "Mauve DK"
+		},
+		{
+			"number" : "3813",
+			"description" : "Blue Green LT"
+		},
+		{
+			"number" : "3840",
+			"description" : "Lavender Blue LT"
+		},
+		{
+			"number" : "3865",
+			"description" : "Winter White"
+		}
+	]
+}

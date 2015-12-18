@@ -1,0 +1,1881 @@
+[{
+  "Number": "150	",
+  "Hex": "#cf0053	",
+  "Name": "Ultra Very Dark Dusty Rose"
+}, {
+  "Number": "151	",
+  "Hex": "#ffcbd7	",
+  "Name": "Very Light Dusty Rose"
+}, {
+  "Number": "152	",
+  "Hex": "#e1a1a1	",
+  "Name": "Medium Light Shell Pink"
+}, {
+  "Number": "153	",
+  "Hex": "#eac5eb	",
+  "Name": "Very Light Violet"
+}, {
+  "Number": "154	",
+  "Hex": "#4b233a	",
+  "Name": "Very Dark Grape"
+}, {
+  "Number": "155	",
+  "Hex": "#9774b6	",
+  "Name": "Medium Dark Blue Violet"
+}, {
+  "Number": "156	",
+  "Hex": "#8577b4	",
+  "Name": "Medium Light Blue Violet"
+}, {
+  "Number": "157	",
+  "Hex": "#b5b8ea	",
+  "Name": "Very Light Cornflower Blue"
+}, {
+  "Number": "158	",
+  "Hex": "#393068	",
+  "Name": "Medium Very Dark Cornflower Blue"
+}, {
+  "Number": "159	",
+  "Hex": "#bcb5de	",
+  "Name": "Light Gray Blue"
+}, {
+  "Number": "160	",
+  "Hex": "#8178a9	",
+  "Name": "Medium Gray Blue"
+}, {
+  "Number": "161	",
+  "Hex": "#60568b	",
+  "Name": "Gray Blue"
+}, {
+  "Number": "162	",
+  "Hex": "#cae7f0	",
+  "Name": "Ultra Very Light Blue"
+}, {
+  "Number": "163	",
+  "Hex": "#557a60	",
+  "Name": "Medium Celadon Green"
+}, {
+  "Number": "164	",
+  "Hex": "#bae4b6	",
+  "Name": "Light Forest Green"
+}, {
+  "Number": "165	",
+  "Hex": "#e1f477	",
+  "Name": "Very Light Moss Green"
+}, {
+  "Number": "166	",
+  "Hex": "#adc238	",
+  "Name": "Medium Light Moss Green"
+}, {
+  "Number": "167	",
+  "Hex": "#855d31	",
+  "Name": "Very Dark Yellow Beige"
+}, {
+  "Number": "168	",
+  "Hex": "#b1aeb7	",
+  "Name": "Very Light Pewter"
+}, {
+  "Number": "169	",
+  "Hex": "#827d7d	",
+  "Name": "Light Pewter"
+}, {
+  "Number": "208	",
+  "Hex": "#9442a7	",
+  "Name": "Very Dark Lavender"
+}, {
+  "Number": "209	",
+  "Hex": "#ba72c6	",
+  "Name": "Dark Lavender"
+}, {
+  "Number": "210	",
+  "Hex": "#d49fe1	",
+  "Name": "Medium Lavender"
+}, {
+  "Number": "211	",
+  "Hex": "#e5bded	",
+  "Name": "Light Lavender"
+}, {
+  "Number": "221	",
+  "Hex": "#792631	",
+  "Name": "Very Dark Shell Pink"
+}, {
+  "Number": "223	",
+  "Hex": "#bb6864	",
+  "Name": "Light Shell Pink"
+}, {
+  "Number": "224	",
+  "Hex": "#e2a598	",
+  "Name": "Very Light Shell Pink"
+}, {
+  "Number": "225	",
+  "Hex": "#f8d9cd	",
+  "Name": "Ultra Very Light Shell Pink"
+}, {
+  "Number": "300	",
+  "Hex": "#6c3116	",
+  "Name": "Very Dark Mahogany"
+}, {
+  "Number": "301	",
+  "Hex": "#aa5237	",
+  "Name": "Medium Mahogany"
+}, {
+  "Number": "304	",
+  "Hex": "#a10c39	",
+  "Name": "Medium Red"
+}, {
+  "Number": "307	",
+  "Hex": "#fde949	",
+  "Name": "Lemon"
+}, {
+  "Number": "309	",
+  "Hex": "#ba2044	",
+  "Name": "Dark Rose"
+}, {
+  "Number": "310	",
+  "Hex": "#000000	",
+  "Name": "Black"
+}, {
+  "Number": "311	",
+  "Hex": "#002a64	",
+  "Name": "Medium Navy Blue"
+}, {
+  "Number": "312	",
+  "Hex": "#1f3279	",
+  "Name": "Very Dark Baby Blue"
+}, {
+  "Number": "315	",
+  "Hex": "#7d4246	",
+  "Name": "Medium Dark Antique Mauve"
+}, {
+  "Number": "316	",
+  "Hex": "#bc757f	",
+  "Name": "Medium Antique Mauve"
+}, {
+  "Number": "317	",
+  "Hex": "#6d6469	",
+  "Name": "Pewter Gray"
+}, {
+  "Number": "318	",
+  "Hex": "#999b9d	",
+  "Name": "Light Steel Gray"
+}, {
+  "Number": "319	",
+  "Hex": "#3a553b	",
+  "Name": "Very Dark Pistachio Green"
+}, {
+  "Number": "320	",
+  "Hex": "#608c59	",
+  "Name": "Medium Pistachio Green"
+}, {
+  "Number": "321	",
+  "Hex": "#bd1136	",
+  "Name": "Red"
+}, {
+  "Number": "322	",
+  "Hex": "#3a609d	",
+  "Name": "Dark Dark Baby Blue"
+}, {
+  "Number": "326	",
+  "Hex": "#ac1c37	",
+  "Name": "Very Dark Rose"
+}, {
+  "Number": "327	",
+  "Hex": "#5e0f77	",
+  "Name": "Dark Violet"
+}, {
+  "Number": "333	",
+  "Hex": "#6e2e9b	",
+  "Name": "Very Dark Blue Violet"
+}, {
+  "Number": "334	",
+  "Hex": "#6085b8	",
+  "Name": "Medium Baby Blue"
+}, {
+  "Number": "335	",
+  "Hex": "#d63d57	",
+  "Name": "Rose"
+}, {
+  "Number": "336	",
+  "Hex": "#0c275e	",
+  "Name": "Navy Blue"
+}, {
+  "Number": "340	",
+  "Hex": "#996dc3	",
+  "Name": "Medium Blue Violet"
+}, {
+  "Number": "341	",
+  "Hex": "#a39ad7	",
+  "Name": "Light Blue Violet"
+}, {
+  "Number": "347	",
+  "Hex": "#ab1b33	",
+  "Name": "Very Dark Salmon"
+}, {
+  "Number": "349	",
+  "Hex": "#c62c38	",
+  "Name": "Dark Coral"
+}, {
+  "Number": "350	",
+  "Hex": "#de3f40	",
+  "Name": "Medium Coral"
+}, {
+  "Number": "351	",
+  "Hex": "#ed625b	",
+  "Name": "Coral"
+}, {
+  "Number": "352	",
+  "Hex": "#f78372	",
+  "Name": "Light Coral"
+}, {
+  "Number": "353	",
+  "Hex": "#fdb4a1	",
+  "Name": "Peach"
+}, {
+  "Number": "355	",
+  "Hex": "#97382b	",
+  "Name": "Dark Terra Cotta"
+}, {
+  "Number": "356	",
+  "Hex": "#be5c4b	",
+  "Name": "Medium Terra Cotta"
+}, {
+  "Number": "367	",
+  "Hex": "#446b45	",
+  "Name": "Dark Pistachio Green"
+}, {
+  "Number": "368	",
+  "Hex": "#7fc66d	",
+  "Name": "Light Pistachio Green"
+}, {
+  "Number": "369	",
+  "Hex": "#cdefa6	",
+  "Name": "Very Light Pistachio Green"
+}, {
+  "Number": "370	",
+  "Hex": "#917245	",
+  "Name": "Medium Mustard"
+}, {
+  "Number": "371	",
+  "Hex": "#9f8352	",
+  "Name": "Mustard"
+}, {
+  "Number": "372	",
+  "Hex": "#ad9564	",
+  "Name": "Light Mustard"
+}, {
+  "Number": "400	",
+  "Hex": "#813718	",
+  "Name": "Dark Mahogany"
+}, {
+  "Number": "402	",
+  "Hex": "#ef9e74	",
+  "Name": "Very Light Mahogany"
+}, {
+  "Number": "407	",
+  "Hex": "#b77159	",
+  "Name": "Dark Desert Sand"
+}, {
+  "Number": "413	",
+  "Hex": "#4a4749	",
+  "Name": "Dark Pewter Gray"
+}, {
+  "Number": "414	",
+  "Hex": "#766e72	",
+  "Name": "Dark Steel Gray"
+}, {
+  "Number": "415	",
+  "Hex": "#b8b9bd	",
+  "Name": "Pearl Gray"
+}, {
+  "Number": "420	",
+  "Hex": "#855a30	",
+  "Name": "Dark Hazelnut Brown"
+}, {
+  "Number": "422	",
+  "Hex": "#c99a67	",
+  "Name": "Light Hazelnut Brown"
+}, {
+  "Number": "433	",
+  "Hex": "#73421e	",
+  "Name": "Medium Brown"
+}, {
+  "Number": "434	",
+  "Hex": "#8f5332	",
+  "Name": "Light Brown"
+}, {
+  "Number": "435	",
+  "Hex": "#a96538	",
+  "Name": "Very Light Brown"
+}, {
+  "Number": "436	",
+  "Hex": "#c78559	",
+  "Name": "Tan"
+}, {
+  "Number": "437	",
+  "Hex": "#daa26f	",
+  "Name": "Light Tan"
+}, {
+  "Number": "444	",
+  "Hex": "#f5bc13	",
+  "Name": "Dark Lemon"
+}, {
+  "Number": "445	",
+  "Hex": "#fcf999	",
+  "Name": "Light Lemon"
+}, {
+  "Number": "451	",
+  "Hex": "#887773	",
+  "Name": "Dark Shell Gray"
+}, {
+  "Number": "452	",
+  "Hex": "#ad9994	",
+  "Name": "Medium Shell Gray"
+}, {
+  "Number": "453	",
+  "Hex": "#ccb8aa	",
+  "Name": "Light Shell Gray"
+}, {
+  "Number": "469	",
+  "Hex": "#5b6533	",
+  "Name": "Avocado Green"
+}, {
+  "Number": "470	",
+  "Hex": "#72813e	",
+  "Name": "Light Avocado Green"
+}, {
+  "Number": "471	",
+  "Hex": "#9eb357	",
+  "Name": "Very Light Avocado Green"
+}, {
+  "Number": "472	",
+  "Hex": "#d1de75	",
+  "Name": "Ultra Light Avocado Green"
+}, {
+  "Number": "498	",
+  "Hex": "#970b2c	",
+  "Name": "Dark Red"
+}, {
+  "Number": "500	",
+  "Hex": "#1d362a	",
+  "Name": "Very Dark Blue Green"
+}, {
+  "Number": "501	",
+  "Hex": "#2f5446	",
+  "Name": "Dark Blue Green"
+}, {
+  "Number": "502	",
+  "Hex": "#57826e	",
+  "Name": "Blue Green"
+}, {
+  "Number": "503	",
+  "Hex": "#89b89f	",
+  "Name": "Medium Blue Green"
+}, {
+  "Number": "504	",
+  "Hex": "#acdac1	",
+  "Name": "Very Light Blue Green"
+}, {
+  "Number": "505	",
+  "Hex": "#ceddc1	",
+  "Name": "Jade Green"
+}, {
+  "Number": "517	",
+  "Hex": "#216285	",
+  "Name": "Dark Wedgewood"
+}, {
+  "Number": "518	",
+  "Hex": "#50819c	",
+  "Name": "Light Wedgewood"
+}, {
+  "Number": "519	",
+  "Hex": "#94b7cb	",
+  "Name": "Sky Blue"
+}, {
+  "Number": "520	",
+  "Hex": "#384526	",
+  "Name": "Dark Fern Green"
+}, {
+  "Number": "522	",
+  "Hex": "#808b6e	",
+  "Name": "Fern Green"
+}, {
+  "Number": "523	",
+  "Hex": "#959f7a	",
+  "Name": "Light Fern Green"
+}, {
+  "Number": "524	",
+  "Hex": "#aea78e	",
+  "Name": "Very Light Fern Green"
+}, {
+  "Number": "535	",
+  "Hex": "#4b4b49	",
+  "Name": "Very Light Ash Gray"
+}, {
+  "Number": "543	",
+  "Hex": "#ead0b5	",
+  "Name": "Ultra Very Light Beige Brown"
+}, {
+  "Number": "550	",
+  "Hex": "#580e5c	",
+  "Name": "Very Dark Violet"
+}, {
+  "Number": "552	",
+  "Hex": "#902f99	",
+  "Name": "Medium Violet"
+}, {
+  "Number": "553	",
+  "Hex": "#a449ac	",
+  "Name": "Violet"
+}, {
+  "Number": "554	",
+  "Hex": "#dc9cde	",
+  "Name": "Light Violet"
+}, {
+  "Number": "561	",
+  "Hex": "#285e48	",
+  "Name": "Very Dark Jade"
+}, {
+  "Number": "562	",
+  "Hex": "#3b8c5a	",
+  "Name": "Medium Jade"
+}, {
+  "Number": "563	",
+  "Hex": "#6ed39a	",
+  "Name": "Light Jade"
+}, {
+  "Number": "564	",
+  "Hex": "#95e4af	",
+  "Name": "Very Light Jade"
+}, {
+  "Number": "580	",
+  "Hex": "#355f0b	",
+  "Name": "Dark Moss Green"
+}, {
+  "Number": "581	",
+  "Hex": "#838a29	",
+  "Name": "Moss Green"
+}, {
+  "Number": "597	",
+  "Hex": "#52adab	",
+  "Name": "Turquoise"
+}, {
+  "Number": "598	",
+  "Hex": "#97d8d3	",
+  "Name": "Light Turquoise"
+}, {
+  "Number": "600	",
+  "Hex": "#bf1c48	",
+  "Name": "Very Dark Cranberry"
+}, {
+  "Number": "601	",
+  "Hex": "#c62a53	",
+  "Name": "Dark Cranberry"
+}, {
+  "Number": "602	",
+  "Hex": "#d63f68	",
+  "Name": "Medium Cranberry"
+}, {
+  "Number": "603	",
+  "Hex": "#ed5d84	",
+  "Name": "Cranberry"
+}, {
+  "Number": "604	",
+  "Hex": "#f793b2	",
+  "Name": "Light Cranberry"
+}, {
+  "Number": "605	",
+  "Hex": "#fbacc4	",
+  "Name": "Very Light Cranberry"
+}, {
+  "Number": "606	",
+  "Hex": "#f70f00	",
+  "Name": "Bright Orange-Red"
+}, {
+  "Number": "608	",
+  "Hex": "#fd480c	",
+  "Name": "Bright Orange"
+}, {
+  "Number": "610	",
+  "Hex": "#6b5039	",
+  "Name": "Dark Drab Brown"
+}, {
+  "Number": "611	",
+  "Hex": "#7c5f46	",
+  "Name": "Drab Brown"
+}, {
+  "Number": "612	",
+  "Hex": "#a6885e	",
+  "Name": "Light Drab Brown"
+}, {
+  "Number": "613	",
+  "Hex": "#b99f72	",
+  "Name": "Very Light Drab Brown"
+}, {
+  "Number": "632	",
+  "Hex": "#7f4232	",
+  "Name": "Ultra Very Dark Desert Sand"
+}, {
+  "Number": "640	",
+  "Hex": "#817868	",
+  "Name": "Very Dark Beige Gray"
+}, {
+  "Number": "642	",
+  "Hex": "#958d79	",
+  "Name": "Dark Beige Gray"
+}, {
+  "Number": "644	",
+  "Hex": "#c4bea6	",
+  "Name": "Medium Beige Gray"
+}, {
+  "Number": "645	",
+  "Hex": "#5d5d54	",
+  "Name": "Very Dark Beaver Gray"
+}, {
+  "Number": "646	",
+  "Hex": "#6b6860	",
+  "Name": "Dark Beaver Gray"
+}, {
+  "Number": "647	",
+  "Hex": "#908e85	",
+  "Name": "Medium Beaver Gray"
+}, {
+  "Number": "648	",
+  "Hex": "#a7a69f	",
+  "Name": "Light Beaver Gray"
+}, {
+  "Number": "666	",
+  "Hex": "#ce1b33	",
+  "Name": "Bright Red"
+}, {
+  "Number": "676	",
+  "Hex": "#ecbf7d	",
+  "Name": "Light Old Gold"
+}, {
+  "Number": "677	",
+  "Hex": "#f2dc9f	",
+  "Name": "Very Light Old Gold"
+}, {
+  "Number": "680	",
+  "Hex": "#b07b46	",
+  "Name": "Dark Old Gold"
+}, {
+  "Number": "699	",
+  "Hex": "#075b26	",
+  "Name": "Green"
+}, {
+  "Number": "700	",
+  "Hex": "#076c34	",
+  "Name": "Bright Green"
+}, {
+  "Number": "701	",
+  "Hex": "#217c36	",
+  "Name": "Light Green"
+}, {
+  "Number": "702	",
+  "Hex": "#379130	",
+  "Name": "Kelly Green"
+}, {
+  "Number": "703	",
+  "Hex": "#63b330	",
+  "Name": "Chartreuse"
+}, {
+  "Number": "704	",
+  "Hex": "#88c53a	",
+  "Name": "Bright Chartreuse"
+}, {
+  "Number": "712	",
+  "Hex": "#f6efda	",
+  "Name": "Cream"
+}, {
+  "Number": "718	",
+  "Hex": "#cb2089	",
+  "Name": "Plum"
+}, {
+  "Number": "720	",
+  "Hex": "#c83a24	",
+  "Name": "Dark Orange Spice"
+}, {
+  "Number": "721	",
+  "Hex": "#f46440	",
+  "Name": "Medium Orange Spice"
+}, {
+  "Number": "722	",
+  "Hex": "#f98756	",
+  "Name": "Light Orange Spice"
+}, {
+  "Number": "725	",
+  "Hex": "#f9c15b	",
+  "Name": "Medium Light Topaz"
+}, {
+  "Number": "726	",
+  "Hex": "#fddb63	",
+  "Name": "Light Topaz"
+}, {
+  "Number": "727	",
+  "Hex": "#fde98b	",
+  "Name": "Very Light Topaz"
+}, {
+  "Number": "728	",
+  "Hex": "#f2ae3f	",
+  "Name": "Topaz"
+}, {
+  "Number": "729	",
+  "Hex": "#ce9657	",
+  "Name": "Medium Old Gold"
+}, {
+  "Number": "730	",
+  "Hex": "#63520b	",
+  "Name": "Very Dark Olive Green"
+}, {
+  "Number": "731	",
+  "Hex": "#6b580b	",
+  "Name": "Dark Olive Green"
+}, {
+  "Number": "732	",
+  "Hex": "#725c0c	",
+  "Name": "Olive Green"
+}, {
+  "Number": "733	",
+  "Hex": "#a78a44	",
+  "Name": "Medium Olive Green"
+}, {
+  "Number": "734	",
+  "Hex": "#bb9c54	",
+  "Name": "Light Olive Green"
+}, {
+  "Number": "738	",
+  "Hex": "#e2b783	",
+  "Name": "Very Light Tan"
+}, {
+  "Number": "739	",
+  "Hex": "#f2deb9	",
+  "Name": "Ultra Very Light Tan"
+}, {
+  "Number": "740	",
+  "Hex": "#fd6f1a	",
+  "Name": "Tangerine"
+}, {
+  "Number": "741	",
+  "Hex": "#fc8b10	",
+  "Name": "Medium Tangerine"
+}, {
+  "Number": "742	",
+  "Hex": "#fdae3c	",
+  "Name": "Light Tangerine"
+}, {
+  "Number": "743	",
+  "Hex": "#fdd769	",
+  "Name": "Medium Yellow"
+}, {
+  "Number": "744	",
+  "Hex": "#fee88d	",
+  "Name": "Pale Yellow"
+}, {
+  "Number": "745	",
+  "Hex": "#feeba5	",
+  "Name": "Light Pale Yellow"
+}, {
+  "Number": "746	",
+  "Hex": "#faf2d5	",
+  "Name": "Off White"
+}, {
+  "Number": "747	",
+  "Hex": "#cee9ea	",
+  "Name": "Very Light Sky Blue"
+}, {
+  "Number": "754	",
+  "Hex": "#f7c9b0	",
+  "Name": "Light Peach"
+}, {
+  "Number": "758	",
+  "Hex": "#e99f83	",
+  "Name": "Very Light Terra Cotta"
+}, {
+  "Number": "760	",
+  "Hex": "#ec8880	",
+  "Name": "Salmon"
+}, {
+  "Number": "761	",
+  "Hex": "#f8b4ad	",
+  "Name": "Light Salmon"
+}, {
+  "Number": "762	",
+  "Hex": "#d1d0d2	",
+  "Name": "Very Light Pearl Gray"
+}, {
+  "Number": "772	",
+  "Hex": "#d7efa7	",
+  "Name": "Very Light Yellow Green"
+}, {
+  "Number": "775	",
+  "Hex": "#d4e3ef	",
+  "Name": "Very Light Baby Blue"
+}, {
+  "Number": "776	",
+  "Hex": "#fca8ad	",
+  "Name": "Medium Pink"
+}, {
+  "Number": "777	",
+  "Hex": "#9b0042	",
+  "Name": "Very Dark Raspberry"
+}, {
+  "Number": "778	",
+  "Hex": "#dca6a4	",
+  "Name": "Very Light Antique Mauve"
+}, {
+  "Number": "779	",
+  "Hex": "#53332d	",
+  "Name": "Dark Cocoa"
+}, {
+  "Number": "780	",
+  "Hex": "#945026	",
+  "Name": "Ultra Very Dark Topaz"
+}, {
+  "Number": "781	",
+  "Hex": "#a25f1f	",
+  "Name": "Very Dark Topaz"
+}, {
+  "Number": "782	",
+  "Hex": "#b26923	",
+  "Name": "Dark Topaz"
+}, {
+  "Number": "783	",
+  "Hex": "#d0883d	",
+  "Name": "Medium Topaz"
+}, {
+  "Number": "791	",
+  "Hex": "#2d2068	",
+  "Name": "Very Dark Cornflower Blue"
+}, {
+  "Number": "792	",
+  "Hex": "#454b8b	",
+  "Name": "Dark Cornflower Blue"
+}, {
+  "Number": "793	",
+  "Hex": "#7c82b5	",
+  "Name": "Medium Cornflower Blue"
+}, {
+  "Number": "794	",
+  "Hex": "#a0b2d7	",
+  "Name": "Light Cornflower Blue"
+}, {
+  "Number": "796	",
+  "Hex": "#272276	",
+  "Name": "Dark Royal Blue"
+}, {
+  "Number": "797	",
+  "Hex": "#2b3288	",
+  "Name": "Royal Blue"
+}, {
+  "Number": "798	",
+  "Hex": "#4e5ca7	",
+  "Name": "Dark Delft Blue"
+}, {
+  "Number": "799	",
+  "Hex": "#6b7fc0	",
+  "Name": "Medium Delft Blue"
+}, {
+  "Number": "800	",
+  "Hex": "#b5c7e9	",
+  "Name": "Pale Delft Blue"
+}, {
+  "Number": "801	",
+  "Hex": "#60391d	",
+  "Name": "Dark Coffee Brown"
+}, {
+  "Number": "803	",
+  "Hex": "#202754	",
+  "Name": "Ultra Very Dark Baby Blue"
+}, {
+  "Number": "806	",
+  "Hex": "#1d6c87	",
+  "Name": "Dark Peacock Blue"
+}, {
+  "Number": "807	",
+  "Hex": "#558b9e	",
+  "Name": "Peacock Blue"
+}, {
+  "Number": "809	",
+  "Hex": "#919fd5	",
+  "Name": "Delft Blue"
+}, {
+  "Number": "813	",
+  "Hex": "#7fa0c6	",
+  "Name": "Light Blue"
+}, {
+  "Number": "814	",
+  "Hex": "#711033	",
+  "Name": "Dark Garnet"
+}, {
+  "Number": "815	",
+  "Hex": "#800b34	",
+  "Name": "Medium Garnet"
+}, {
+  "Number": "816	",
+  "Hex": "#921238	",
+  "Name": "Garnet"
+}, {
+  "Number": "817	",
+  "Hex": "#bb1630	",
+  "Name": "Very Dark Coral Red"
+}, {
+  "Number": "818	",
+  "Hex": "#fededd	",
+  "Name": "Baby Pink"
+}, {
+  "Number": "819	",
+  "Hex": "#fcebde	",
+  "Name": "Light Baby Pink"
+}, {
+  "Number": "820	",
+  "Hex": "#151264	",
+  "Name": "Very Dark Royal Blue"
+}, {
+  "Number": "822	",
+  "Hex": "#e8dfc7	",
+  "Name": "Light Beige Gray"
+}, {
+  "Number": "823	",
+  "Hex": "#000b44	",
+  "Name": "Dark Navy Blue"
+}, {
+  "Number": "824	",
+  "Hex": "#284779	",
+  "Name": "Very Dark Blue"
+}, {
+  "Number": "825	",
+  "Hex": "#34588f	",
+  "Name": "Dark Blue"
+}, {
+  "Number": "826	",
+  "Hex": "#5075a7	",
+  "Name": "Medium Blue"
+}, {
+  "Number": "827	",
+  "Hex": "#a4c1de	",
+  "Name": "Very Light Blue"
+}, {
+  "Number": "828	",
+  "Hex": "#c3d7e6	",
+  "Name": "Ultra Very Very Light Blue"
+}, {
+  "Number": "829	",
+  "Hex": "#64480c	",
+  "Name": "Very Dark Golden Olive"
+}, {
+  "Number": "830	",
+  "Hex": "#6e501d	",
+  "Name": "Dark Golden Olive"
+}, {
+  "Number": "831	",
+  "Hex": "#7c5f20	",
+  "Name": "Medium Golden Olive"
+}, {
+  "Number": "832	",
+  "Hex": "#9c7230	",
+  "Name": "Golden Olive"
+}, {
+  "Number": "833	",
+  "Hex": "#b99956	",
+  "Name": "Light Golden Olive"
+}, {
+  "Number": "834	",
+  "Hex": "#d2b468	",
+  "Name": "Very Light Golden Olive"
+}, {
+  "Number": "838	",
+  "Hex": "#4a3021	",
+  "Name": "Very Dark Beige Brown"
+}, {
+  "Number": "839	",
+  "Hex": "#5a3c2d	",
+  "Name": "Dark Beige Brown"
+}, {
+  "Number": "840	",
+  "Hex": "#7a5939	",
+  "Name": "Medium Beige Brown"
+}, {
+  "Number": "841	",
+  "Hex": "#a37d64	",
+  "Name": "Light Beige Brown"
+}, {
+  "Number": "842	",
+  "Hex": "#cbb094	",
+  "Name": "Very Light Beige Brown"
+}, {
+  "Number": "844	",
+  "Hex": "#494842	",
+  "Name": "Ultra Dark Beaver Gray"
+}, {
+  "Number": "869	",
+  "Hex": "#784c28	",
+  "Name": "Very Dark Hazelnut Brown"
+}, {
+  "Number": "890	",
+  "Hex": "#324233	",
+  "Name": "Ultra Dark Pistachio Green"
+}, {
+  "Number": "891	",
+  "Hex": "#ee3246	",
+  "Name": "Dark Carnation"
+}, {
+  "Number": "892	",
+  "Hex": "#f44753	",
+  "Name": "Medium Carnation"
+}, {
+  "Number": "893	",
+  "Hex": "#f66879	",
+  "Name": "Light Carnation"
+}, {
+  "Number": "894	",
+  "Hex": "#fd95a3	",
+  "Name": "Very Light Carnation"
+}, {
+  "Number": "895	",
+  "Hex": "#344b2e	",
+  "Name": "Very Dark Hunter Green"
+}, {
+  "Number": "898	",
+  "Hex": "#532f1b	",
+  "Name": "Very Dark Coffee Brown"
+}, {
+  "Number": "899	",
+  "Hex": "#ea6b78	",
+  "Name": "Medium Rose"
+}, {
+  "Number": "900	",
+  "Hex": "#c63117	",
+  "Name": "Dark Burnt Orange"
+}, {
+  "Number": "902	",
+  "Hex": "#651329	",
+  "Name": "Very Dark Garnet"
+}, {
+  "Number": "904	",
+  "Hex": "#386324	",
+  "Name": "Very Dark Parrot Green"
+}, {
+  "Number": "905	",
+  "Hex": "#467924	",
+  "Name": "Dark Parrot Green"
+}, {
+  "Number": "906	",
+  "Hex": "#6c9e29	",
+  "Name": "Medium Parrot Green"
+}, {
+  "Number": "907	",
+  "Hex": "#9dc72d	",
+  "Name": "Light Parrot Green"
+}, {
+  "Number": "909	",
+  "Hex": "#106b43	",
+  "Name": "Very Dark Emerald Green"
+}, {
+  "Number": "910	",
+  "Hex": "#10814e	",
+  "Name": "Dark Emerald Green"
+}, {
+  "Number": "911	",
+  "Hex": "#109256	",
+  "Name": "Medium Emerald Green"
+}, {
+  "Number": "912	",
+  "Hex": "#36b26b	",
+  "Name": "Light Emerald Green"
+}, {
+  "Number": "913	",
+  "Hex": "#55ca7d	",
+  "Name": "Medium Nile Green"
+}, {
+  "Number": "915	",
+  "Hex": "#95085a	",
+  "Name": "Dark Plum"
+}, {
+  "Number": "917	",
+  "Hex": "#ac1071	",
+  "Name": "Medium Plum"
+}, {
+  "Number": "918	",
+  "Hex": "#883630	",
+  "Name": "Dark Red Copper"
+}, {
+  "Number": "919	",
+  "Hex": "#9b371b	",
+  "Name": "Red Copper"
+}, {
+  "Number": "920	",
+  "Hex": "#ab4836	",
+  "Name": "Medium Copper"
+}, {
+  "Number": "921	",
+  "Hex": "#c0573d	",
+  "Name": "Copper"
+}, {
+  "Number": "922	",
+  "Hex": "#dd6e4c	",
+  "Name": "Light Copper"
+}, {
+  "Number": "924	",
+  "Hex": "#384a4a	",
+  "Name": "Very Dark Gray Green"
+}, {
+  "Number": "926	",
+  "Hex": "#617674	",
+  "Name": "Medium Gray Green"
+}, {
+  "Number": "927	",
+  "Hex": "#9fa8a5	",
+  "Name": "Light Gray Green"
+}, {
+  "Number": "928	",
+  "Hex": "#c0c6c0	",
+  "Name": "Very Light Gray Green"
+}, {
+  "Number": "930	",
+  "Hex": "#495c6b	",
+  "Name": "Dark Antique Blue"
+}, {
+  "Number": "931	",
+  "Hex": "#667684	",
+  "Name": "Medium Antique Blue"
+}, {
+  "Number": "932	",
+  "Hex": "#93a0af	",
+  "Name": "Light Antique Blue"
+}, {
+  "Number": "934	",
+  "Hex": "#323324	",
+  "Name": "Black Avocado Green"
+}, {
+  "Number": "935	",
+  "Hex": "#383a2a	",
+  "Name": "Dark Avocado Green"
+}, {
+  "Number": "936	",
+  "Hex": "#3f4227	",
+  "Name": "Very Dark Avocado Green"
+}, {
+  "Number": "937	",
+  "Hex": "#434f2c	",
+  "Name": "Medium Avocado Green"
+}, {
+  "Number": "938	",
+  "Hex": "#45271a	",
+  "Name": "Ultra Dark Coffee Brown"
+}, {
+  "Number": "939	",
+  "Hex": "#09092f	",
+  "Name": "Very Dark Navy Blue"
+}, {
+  "Number": "943	",
+  "Hex": "#009a77	",
+  "Name": "Medium Aquamarine"
+}, {
+  "Number": "945	",
+  "Hex": "#f6c19a	",
+  "Name": "Tawny"
+}, {
+  "Number": "946	",
+  "Hex": "#ed4115	",
+  "Name": "Medium Burnt Orange"
+}, {
+  "Number": "947	",
+  "Hex": "#fc4f16	",
+  "Name": "Burnt Orange"
+}, {
+  "Number": "948	",
+  "Hex": "#fde6d3	",
+  "Name": "Very Light Peach"
+}, {
+  "Number": "950	",
+  "Hex": "#e5ac8d	",
+  "Name": "Light Desert Sand"
+}, {
+  "Number": "951	",
+  "Hex": "#faddb6	",
+  "Name": "Light Tawny"
+}, {
+  "Number": "954	",
+  "Hex": "#6fda8a	",
+  "Name": "Nile Green"
+}, {
+  "Number": "955	",
+  "Hex": "#a8ebad	",
+  "Name": "Light Nile Green"
+}, {
+  "Number": "956	",
+  "Hex": "#f7566d	",
+  "Name": "Geranium"
+}, {
+  "Number": "957	",
+  "Hex": "#fd99af	",
+  "Name": "Pale Geranium"
+}, {
+  "Number": "958	",
+  "Hex": "#0db294	",
+  "Name": "Dark Seagreen"
+}, {
+  "Number": "959	",
+  "Hex": "#72d0b7	",
+  "Name": "Medium Seagreen"
+}, {
+  "Number": "961	",
+  "Hex": "#de586c	",
+  "Name": "Dark Dusty Rose"
+}, {
+  "Number": "962	",
+  "Hex": "#eb7183	",
+  "Name": "Medium Dusty Rose"
+}, {
+  "Number": "963	",
+  "Hex": "#fdccd1	",
+  "Name": "Ultra Very Light Dusty Rose"
+}, {
+  "Number": "964	",
+  "Hex": "#a5e4d4	",
+  "Name": "Light Seagreen"
+}, {
+  "Number": "966	",
+  "Hex": "#94d28a	",
+  "Name": "Medium Baby Green"
+}, {
+  "Number": "967	",
+  "Hex": "#ffc2ac	",
+  "Name": "Very Light Apricot"
+}, {
+  "Number": "970	",
+  "Hex": "#fb6721	",
+  "Name": "Light Pumpkin"
+}, {
+  "Number": "971	",
+  "Hex": "#fc670d	",
+  "Name": "Pumpkin"
+}, {
+  "Number": "972	",
+  "Hex": "#fb9f11	",
+  "Name": "Deep Canary"
+}, {
+  "Number": "973	",
+  "Hex": "#fccd2d	",
+  "Name": "Bright Canary"
+}, {
+  "Number": "975	",
+  "Hex": "#813c11	",
+  "Name": "Dark Golden Brown"
+}, {
+  "Number": "976	",
+  "Hex": "#cf7532	",
+  "Name": "Medium Golden Brown"
+}, {
+  "Number": "977	",
+  "Hex": "#ec8f43	",
+  "Name": "Light Golden Brown"
+}, {
+  "Number": "986	",
+  "Hex": "#2e5230	",
+  "Name": "Very Dark Forest Green"
+}, {
+  "Number": "987	",
+  "Hex": "#436838	",
+  "Name": "Dark Forest Green"
+}, {
+  "Number": "988	",
+  "Hex": "#66924a	",
+  "Name": "Medium Forest Green"
+}, {
+  "Number": "989	",
+  "Hex": "#71a74e	",
+  "Name": "Forest Green"
+}, {
+  "Number": "991	",
+  "Hex": "#135f55	",
+  "Name": "Dark Aquamarine"
+}, {
+  "Number": "992	",
+  "Hex": "#42b59e	",
+  "Name": "Light Aquamarine"
+}, {
+  "Number": "993	",
+  "Hex": "#62d8b6	",
+  "Name": "Very Light Aquamarine"
+}, {
+  "Number": "995	",
+  "Hex": "#0061b0	",
+  "Name": "Dark Electric Blue"
+}, {
+  "Number": "996	",
+  "Hex": "#49a8eb	",
+  "Name": "Medium Electric Blue"
+}, {
+  "Number": "3011	",
+  "Hex": "#655935	",
+  "Name": "Dark Khaki Green"
+}, {
+  "Number": "3012	",
+  "Hex": "#8b7b4e	",
+  "Name": "Medium Khaki Green"
+}, {
+  "Number": "3013	",
+  "Hex": "#afa97b	",
+  "Name": "Light Khaki Green"
+}, {
+  "Number": "3021	",
+  "Hex": "#50403b	",
+  "Name": "Very Dark Brown Gray"
+}, {
+  "Number": "3022	",
+  "Hex": "#848274	",
+  "Name": "Medium Brown Gray"
+}, {
+  "Number": "3023	",
+  "Hex": "#a29b86	",
+  "Name": "Light Brown Gray"
+}, {
+  "Number": "3024	",
+  "Hex": "#beb8ac	",
+  "Name": "Very Light Brown Gray"
+}, {
+  "Number": "3031	",
+  "Hex": "#423014	",
+  "Name": "Very Dark Mocha Brown"
+}, {
+  "Number": "3032	",
+  "Hex": "#9d8868	",
+  "Name": "Medium Mocha Brown"
+}, {
+  "Number": "3033	",
+  "Hex": "#dbc7ad	",
+  "Name": "Very Light Mocha Brown"
+}, {
+  "Number": "3041	",
+  "Hex": "#866a76	",
+  "Name": "Medium Antique Violet"
+}, {
+  "Number": "3042	",
+  "Hex": "#af98a0	",
+  "Name": "Light Antique Violet"
+}, {
+  "Number": "3045	",
+  "Hex": "#af8152	",
+  "Name": "Dark Yellow Beige"
+}, {
+  "Number": "3046	",
+  "Hex": "#ceb074	",
+  "Name": "Medium Yellow Beige"
+}, {
+  "Number": "3047	",
+  "Hex": "#ead8ab	",
+  "Name": "Light Yellow Beige"
+}, {
+  "Number": "3051	",
+  "Hex": "#4c4c1e	",
+  "Name": "Dark Green Gray"
+}, {
+  "Number": "3052	",
+  "Hex": "#787e5c	",
+  "Name": "Medium Green Gray"
+}, {
+  "Number": "3053	",
+  "Hex": "#999d75	",
+  "Name": "Green Gray"
+}, {
+  "Number": "3064	",
+  "Hex": "#ba7056	",
+  "Name": "Desert Sand"
+}, {
+  "Number": "3072	",
+  "Hex": "#d2d2ca	",
+  "Name": "Very Light Beaver Gray"
+}, {
+  "Number": "3078	",
+  "Hex": "#fcf6b6	",
+  "Name": "Very Light Golden Yellow"
+}, {
+  "Number": "3325	",
+  "Hex": "#adcde7	",
+  "Name": "Light Baby Blue"
+}, {
+  "Number": "3326	",
+  "Hex": "#f9979c	",
+  "Name": "Light Rose"
+}, {
+  "Number": "3328	",
+  "Hex": "#be444a	",
+  "Name": "Dark Salmon"
+}, {
+  "Number": "3340	",
+  "Hex": "#fd6b4f	",
+  "Name": "Medium Apricot"
+}, {
+  "Number": "3341	",
+  "Hex": "#fd8e78	",
+  "Name": "Apricot"
+}, {
+  "Number": "3345	",
+  "Hex": "#40552e	",
+  "Name": "Dark Hunter Green"
+}, {
+  "Number": "3346	",
+  "Hex": "#56743b	",
+  "Name": "Hunter Green"
+}, {
+  "Number": "3347	",
+  "Hex": "#6d9646	",
+  "Name": "Medium Yellow Green"
+}, {
+  "Number": "3348	",
+  "Hex": "#bedf74	",
+  "Name": "Light Yellow Green"
+}, {
+  "Number": "3350	",
+  "Hex": "#aa3949	",
+  "Name": "Ultra Dark Dusty Rose"
+}, {
+  "Number": "3354	",
+  "Hex": "#efa5ac	",
+  "Name": "Light Dusty Rose"
+}, {
+  "Number": "3362	",
+  "Hex": "#49523c	",
+  "Name": "Dark Pine Green"
+}, {
+  "Number": "3363	",
+  "Hex": "#617451	",
+  "Name": "Medium Pine Green"
+}, {
+  "Number": "3364	",
+  "Hex": "#8e9b6d	",
+  "Name": "Pine Green"
+}, {
+  "Number": "3371	",
+  "Hex": "#36220e	",
+  "Name": "Black Brown"
+}, {
+  "Number": "3607	",
+  "Hex": "#d94c9d	",
+  "Name": "Light Plum"
+}, {
+  "Number": "3608	",
+  "Hex": "#ec81be	",
+  "Name": "Very Light Plum"
+}, {
+  "Number": "3609	",
+  "Hex": "#f6b0df	",
+  "Name": "Ultra Light Plum"
+}, {
+  "Number": "3685	",
+  "Hex": "#79263b	",
+  "Name": "Very Dark Mauve"
+}, {
+  "Number": "3687	",
+  "Hex": "#b5455d	",
+  "Name": "Mauve"
+}, {
+  "Number": "3688	",
+  "Hex": "#dc7c86	",
+  "Name": "Medium Mauve"
+}, {
+  "Number": "3689	",
+  "Hex": "#f8bbc8	",
+  "Name": "Light Mauve"
+}, {
+  "Number": "3705	",
+  "Hex": "#f2494f	",
+  "Name": "Dark Melon"
+}, {
+  "Number": "3706	",
+  "Hex": "#fd6e70	",
+  "Name": "Medium Melon"
+}, {
+  "Number": "3708	",
+  "Hex": "#fda0ae	",
+  "Name": "Light Melon"
+}, {
+  "Number": "3712	",
+  "Hex": "#d95d5d	",
+  "Name": "Medium Salmon"
+}, {
+  "Number": "3713	",
+  "Hex": "#fdd5d0	",
+  "Name": "Very Light Salmon"
+}, {
+  "Number": "3716	",
+  "Hex": "#fcafb9	",
+  "Name": "Very Light Dusty Rose"
+}, {
+  "Number": "3721	",
+  "Hex": "#933b3d	",
+  "Name": "Dark Shell Pink"
+}, {
+  "Number": "3722	",
+  "Hex": "#a04b4c	",
+  "Name": "Medium Shell Pink"
+}, {
+  "Number": "3726	",
+  "Hex": "#95565c	",
+  "Name": "Dark Antique Mauve"
+}, {
+  "Number": "3727	",
+  "Hex": "#da9ea6	",
+  "Name": "Light Antique Mauve"
+}, {
+  "Number": "3731	",
+  "Hex": "#c34c5c	",
+  "Name": "Very Dark Dusty Rose"
+}, {
+  "Number": "3733	",
+  "Hex": "#ea7e86	",
+  "Name": "Dusty Rose"
+}, {
+  "Number": "3740	",
+  "Hex": "#71535d	",
+  "Name": "Dark Antique Violet"
+}, {
+  "Number": "3743	",
+  "Hex": "#cfc2c9	",
+  "Name": "Very Light Antique Violet"
+}, {
+  "Number": "3746	",
+  "Hex": "#844ab5	",
+  "Name": "Dark Blue Violet"
+}, {
+  "Number": "3747	",
+  "Hex": "#d0c5ec	",
+  "Name": "Very Light Blue Violet"
+}, {
+  "Number": "3750	",
+  "Hex": "#1d4552	",
+  "Name": "Very Dark Antique Blue"
+}, {
+  "Number": "3752	",
+  "Hex": "#bac9cc	",
+  "Name": "Very Light Antique Blue"
+}, {
+  "Number": "3753	",
+  "Hex": "#d9e6ec	",
+  "Name": "Ultra Very Light Antique Blue"
+}, {
+  "Number": "3755	",
+  "Hex": "#81a5d8	",
+  "Name": "Baby Blue"
+}, {
+  "Number": "3756	",
+  "Hex": "#e9f4fa	",
+  "Name": "Ultra Very Light Baby Blue"
+}, {
+  "Number": "3760	",
+  "Hex": "#467293	",
+  "Name": "Medium Wedgewood"
+}, {
+  "Number": "3761	",
+  "Hex": "#b1d0df	",
+  "Name": "Light Sky Blue"
+}, {
+  "Number": "3765	",
+  "Hex": "#175e78	",
+  "Name": "Very Dark Peacock Blue"
+}, {
+  "Number": "3766	",
+  "Hex": "#4b8aa1	",
+  "Name": "Light Peacock Blue"
+}, {
+  "Number": "3768	",
+  "Hex": "#4c605f	",
+  "Name": "Dark Gray Green"
+}, {
+  "Number": "3770	",
+  "Hex": "#fef1d8	",
+  "Name": "Very Light Tawny"
+}, {
+  "Number": "3771	",
+  "Hex": "#e8ac9b	",
+  "Name": "Ultra Very Light Terra Cotta"
+}, {
+  "Number": "3772	",
+  "Hex": "#995744	",
+  "Name": "Very Dark Desert Sand"
+}, {
+  "Number": "3773	",
+  "Hex": "#cf866d	",
+  "Name": "Medium Desert Sand"
+}, {
+  "Number": "3774	",
+  "Hex": "#f3cfb4	",
+  "Name": "Very Light Desert Sand"
+}, {
+  "Number": "3776	",
+  "Hex": "#c96444	",
+  "Name": "Light Mahogany"
+}, {
+  "Number": "3777	",
+  "Hex": "#922f25	",
+  "Name": "Very Dark Terra Cotta"
+}, {
+  "Number": "3778	",
+  "Hex": "#d2705c	",
+  "Name": "Light Terra Cotta"
+}, {
+  "Number": "3779	",
+  "Hex": "#f2ab95	",
+  "Name": "Ultra Very Light Terra Cotta"
+}, {
+  "Number": "3781	",
+  "Hex": "#593f2b	",
+  "Name": "Dark Mocha Brown"
+}, {
+  "Number": "3782	",
+  "Hex": "#b69d80	",
+  "Name": "Light Mocha Brown"
+}, {
+  "Number": "3787	",
+  "Hex": "#62524c	",
+  "Name": "Dark Brown Gray"
+}, {
+  "Number": "3790	",
+  "Hex": "#6d5a4b	",
+  "Name": "Ultra Dark Beige Gray"
+}, {
+  "Number": "3799	",
+  "Hex": "#39393d	",
+  "Name": "Very Dark Pewter Gray"
+}, {
+  "Number": "3801	",
+  "Hex": "#e4353d	",
+  "Name": "Very Dark Melon"
+}, {
+  "Number": "3802	",
+  "Hex": "#672a33	",
+  "Name": "Very Dark Antique Mauve"
+}, {
+  "Number": "3803	",
+  "Hex": "#872a43	",
+  "Name": "Dark Mauve"
+}, {
+  "Number": "3804	",
+  "Hex": "#ce2b63	",
+  "Name": "Dark Cyclamen Pink"
+}, {
+  "Number": "3805	",
+  "Hex": "#df3c73	",
+  "Name": "Cyclamen Pink"
+}, {
+  "Number": "3806	",
+  "Hex": "#f15a91	",
+  "Name": "Light Cyclamen Pink"
+}, {
+  "Number": "3807	",
+  "Hex": "#4b599e	",
+  "Name": "Cornflower Blue"
+}, {
+  "Number": "3808	",
+  "Hex": "#03535c	",
+  "Name": "Ultra Very Dark Turquoise"
+}, {
+  "Number": "3809	",
+  "Hex": "#136a75	",
+  "Name": "Very Dark Turquoise"
+}, {
+  "Number": "3810	",
+  "Hex": "#2d8d98	",
+  "Name": "Dark Turquoise"
+}, {
+  "Number": "3811	",
+  "Hex": "#a8e2e5	",
+  "Name": "Very Light Turquoise"
+}, {
+  "Number": "3812	",
+  "Hex": "#07a184	",
+  "Name": "Very Dark Seagreen"
+}, {
+  "Number": "3813	",
+  "Hex": "#86c3ab	",
+  "Name": "Light Blue Green"
+}, {
+  "Number": "3814	",
+  "Hex": "#0b8673	",
+  "Name": "Aquamarine"
+}, {
+  "Number": "3815	",
+  "Hex": "#437259	",
+  "Name": "Dark Celadon Green"
+}, {
+  "Number": "3816	",
+  "Hex": "#60937a	",
+  "Name": "Celadon Green"
+}, {
+  "Number": "3817	",
+  "Hex": "#81c6a4	",
+  "Name": "Light Celadon Green"
+}, {
+  "Number": "3818	",
+  "Hex": "#005d2e	",
+  "Name": "Ultra Very Dark Emerald Greene"
+}, {
+  "Number": "3819	",
+  "Hex": "#ccc959	",
+  "Name": "Light Moss Green"
+}, {
+  "Number": "3820	",
+  "Hex": "#dba53e	",
+  "Name": "Dark Straw"
+}, {
+  "Number": "3821	",
+  "Hex": "#ebbb52	",
+  "Name": "Straw"
+}, {
+  "Number": "3822	",
+  "Hex": "#f7d169	",
+  "Name": "Light Straw"
+}, {
+  "Number": "3823	",
+  "Hex": "#fef5cd	",
+  "Name": "Ultra Pale Yellow"
+}, {
+  "Number": "3824	",
+  "Hex": "#fcae99	",
+  "Name": "Light Apricot"
+}, {
+  "Number": "3825	",
+  "Hex": "#fea370	",
+  "Name": "Pale Pumpkin"
+}, {
+  "Number": "3826	",
+  "Hex": "#b16633	",
+  "Name": "Golden Brown"
+}, {
+  "Number": "3827	",
+  "Hex": "#eaa664	",
+  "Name": "Pale Golden Brown"
+}, {
+  "Number": "3828	",
+  "Hex": "#aa7c43	",
+  "Name": "Hazelnut Brown"
+}, {
+  "Number": "3829	",
+  "Hex": "#a7671d	",
+  "Name": "Very Dark Old Gold"
+}, {
+  "Number": "3830	",
+  "Hex": "#a94138	",
+  "Name": "Terra Cotta"
+}, {
+  "Number": "3831	",
+  "Hex": "#c12b52	",
+  "Name": "Dark Raspberry"
+}, {
+  "Number": "3832	",
+  "Hex": "#e36370	",
+  "Name": "Medium Raspberry"
+}, {
+  "Number": "3833	",
+  "Hex": "#ea8b96	",
+  "Name": "Light Raspberry"
+}, {
+  "Number": "3834	",
+  "Hex": "#6a2258	",
+  "Name": "Dark Grape"
+}, {
+  "Number": "3835	",
+  "Hex": "#924d78	",
+  "Name": "Medium Grape"
+}, {
+  "Number": "3836	",
+  "Hex": "#c597b9	",
+  "Name": "Light Grape"
+}, {
+  "Number": "3837	",
+  "Hex": "#8a2a8f	",
+  "Name": "Ultra Dark Lavender"
+}, {
+  "Number": "3838	",
+  "Hex": "#606bad	",
+  "Name": "Dark Lavender Blue"
+}, {
+  "Number": "3839	",
+  "Hex": "#7a7ec5	",
+  "Name": "Medium Lavender Blue"
+}, {
+  "Number": "3840	",
+  "Hex": "#b2bdea	",
+  "Name": "Light Lavender Blue"
+}, {
+  "Number": "3841	",
+  "Hex": "#d9eaf2	",
+  "Name": "Pale Baby Blue"
+}, {
+  "Number": "3842	",
+  "Hex": "#06506a	",
+  "Name": "Dark Wedgwood"
+}, {
+  "Number": "3843	",
+  "Hex": "#28a3de	",
+  "Name": "Electric Blue"
+}, {
+  "Number": "3844	",
+  "Hex": "#1f7fa0	",
+  "Name": "Dark Bright Turquoise"
+}, {
+  "Number": "3845	",
+  "Hex": "#2badd1	",
+  "Name": "Medium Bright Turquoise"
+}, {
+  "Number": "3846	",
+  "Hex": "#5eccec	",
+  "Name": "Light Bright Turquoise"
+}, {
+  "Number": "3847	",
+  "Hex": "#186358	",
+  "Name": "Dark Teal Green"
+}, {
+  "Number": "3848	",
+  "Hex": "#207e72	",
+  "Name": "Medium Teal Green"
+}, {
+  "Number": "3849	",
+  "Hex": "#35b193	",
+  "Name": "Light Teal Green"
+}, {
+  "Number": "3850	",
+  "Hex": "#208b46	",
+  "Name": "Dark Bright Green"
+}, {
+  "Number": "3851	",
+  "Hex": "#61bb84	",
+  "Name": "Light Bright Green"
+}, {
+  "Number": "3852	",
+  "Hex": "#e3a730	",
+  "Name": "Very Dark Straw"
+}, {
+  "Number": "3853	",
+  "Hex": "#ef8125	",
+  "Name": "Dark Autumn Gold"
+}, {
+  "Number": "3854	",
+  "Hex": "#fbac56	",
+  "Name": "Medium Autumn Gold"
+}, {
+  "Number": "3855	",
+  "Hex": "#fddfa0	",
+  "Name": "Light Autumn Gold"
+}, {
+  "Number": "3856	",
+  "Hex": "#fdbe8e	",
+  "Name": "Ultra Very Light Mahogany"
+}, {
+  "Number": "3857	",
+  "Hex": "#6a2f26	",
+  "Name": "Dark Rosewood"
+}, {
+  "Number": "3858	",
+  "Hex": "#803a32	",
+  "Name": "Medium Rosewood"
+}, {
+  "Number": "3859	",
+  "Hex": "#ba7a6c	",
+  "Name": "Light Rosewood"
+}, {
+  "Number": "3860	",
+  "Hex": "#896362	",
+  "Name": "Cocoa"
+}, {
+  "Number": "3861	",
+  "Hex": "#ac8583	",
+  "Name": "Light Cocoa"
+}, {
+  "Number": "3862	",
+  "Hex": "#6e492a	",
+  "Name": "Dark Mocha Beige"
+}, {
+  "Number": "3863	",
+  "Hex": "#94725d	",
+  "Name": "Medium Mocha Beige"
+}, {
+  "Number": "3864	",
+  "Hex": "#c9aa92	",
+  "Name": "Light Mocha Beige"
+}, {
+  "Number": "3865	",
+  "Hex": "#fffdf9	",
+  "Name": "Winter White"
+}, {
+  "Number": "3866	",
+  "Hex": "#f0e6d7	",
+  "Name": "Ultra Very Light Mocha Brown"
+}, {
+  "Number": "3880	",
+  "Hex": "#8d453f	",
+  "Name": "Medium Very Dark Shell Pink"
+}, {
+  "Number": "3881	",
+  "Hex": "#8ea361	",
+  "Name": "Pale Avocado Green"
+}, {
+  "Number": "3882	",
+  "Hex": "#65452f	",
+  "Name": "Medium Light Cocoa"
+}, {
+  "Number": "3883	",
+  "Hex": "#de7033	",
+  "Name": "Medium Light Copper"
+}, {
+  "Number": "3884	",
+  "Hex": "#666c6a	",
+  "Name": "Medium Light Pewter"
+}, {
+  "Number": "3885	",
+  "Hex": "#054181	",
+  "Name": "Medium Very Dark Blue"
+}, {
+  "Number": "3886	",
+  "Hex": "#6e0f56	",
+  "Name": "Very Dark Plum"
+}, {
+  "Number": "3887	",
+  "Hex": "#623788	",
+  "Name": "Ultra Very Dark Lavender"
+}, {
+  "Number": "3888	",
+  "Hex": "#6c5b66	",
+  "Name": "Medium Dark Antique Violet"
+}, {
+  "Number": "3889	",
+  "Hex": "#eedb4b	",
+  "Name": "Medium Light Lemon"
+}, {
+  "Number": "3890	",
+  "Hex": "#38cbed	",
+  "Name": "Very Light Bright Turquoise"
+}, {
+  "Number": "3891	",
+  "Hex": "#055e9b	",
+  "Name": "Very Dark Bright Turquoise"
+}, {
+  "Number": "3892	",
+  "Hex": "#f6630b	",
+  "Name": "Medium Light Orange Spice"
+}, {
+  "Number": "3893	",
+  "Hex": "#cbad98	",
+  "Name": "Very Light Mocha Beige"
+}, {
+  "Number": "3894	",
+  "Hex": "#91ad0b	",
+  "Name": "Very Light Parrot Green"
+}, {
+  "Number": "3895	",
+  "Hex": "#888572	",
+  "Name": "Medium Dark Beaver Gray"
+}, {
+  "Number": "B5200	",
+  "Hex": "#fcfcff	",
+  "Name": "Snow White"
+}, {
+  "Number": "Ecru	",
+  "Hex": "#fff7e7	",
+  "Name": "Ecru"
+}, {
+  "Number": "White	",
+  "Hex": "#ffffff	",
+  "Name": "White"
+}]
