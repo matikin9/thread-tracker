@@ -1,31 +1,56 @@
-function compare_cross_stitch_json(dataset1, dataset2) {
-	$.getJSON(dataset1, function(data1) {
-		$.getJSON(dataset2, function(data2) {
-			$('.intro').append('Comparing: ' + data1.name + " to " + data2.name);
+function find_unique_colors(filenameArr) {
+  // filenameArr: ["set1.json", "set2.json", ...]
+	// TODO: Check for duplicate colors within a single dataset
 
-			var colors1 = data1.colors.map(function(x) {
-				return x.number;
-			});
-			var colors2 = data2.colors.map(function(x) {
-				return x.number;
-			});
+  var numFiles = filenameArr.length;
+  var uniqueColors = [];
 
-			var matches = [];
+  if (numFiles < 1) {
+    return;
+  } else if (numFiles == 1) {
+    // TODO: Return the colors in the file in the first element of the array.
+  } else {
+    // compare colors in at least 2 files.
 
-			$.each(data1.colors, function(index, color_obj) {
-				console.log("color: " + color_obj.number + " " + color_obj.description);
+    $.each(filenameArr, function(index, filename) {
+      // for each file in the array, compare elements to uniqueColors array
+      $.getJSON(filename, function(data) {
+				var colorsToCompare = uniqueColors.slice(0);
+        uniqueColors = find_unique_compare_two(colorsToCompare, data.colors);
+				uniqueColors.sort();
+				console.log("* : " + uniqueColors);
 
-				if ($.inArray(color_obj.number, colors2) > 0) {
-					matches.push(color_obj);
-				}
-			});
+				var html = "";
+				$.each(uniqueColors, function(key, value) {
+					html += '<li>' + value + '</li>';
+				});
 
-			$.each(matches, function(key, value) {
-				$('.log').append('<li>' + value.number + " - " + value.description + '</li>');
-			})
+				$('.log').html(html);
+      });
+    });
+		return;
+  }
+}
 
-			console.log(matches);
-		});
-	});
+function find_unique_compare_two(colorset1, colorset2) {
+  if (colorset1.length === 0) {
+    return colorset2;
+  } else if (colorset2.length === 0) {
+    return colorset1;
+  } else {
+		// Javascript passes arrays and objects by reference, not value.
+		// Using slice here sets uniqueElements to a shallow copy of
+		// the values in the colors1 array.
+    var uniqueElements = colorset1.slice(0);
 
+    $.each(colorset2, function(index, obj) {
+			// if a color within colorset2 does not exist within uniqueElements (which was
+			// initialized to colorset1), add it to uniqueElements
+			if ($.inArray(obj, uniqueElements) < 0) {
+				uniqueElements.push(obj);
+			}
+    });
+
+		return uniqueElements;
+  }
 }

@@ -1,157 +1,32 @@
-{ 
-	"name" : "Pretty Little San Francisco",
-	"designer" : "Satsuma Street",
-	"thread brand" : "DMC",
-	"colors" : [
-		{
-			"number" : "3371",
-			"description" : "Black Brown",
-			"length" : 3.0,
-			"length units" : "inches"
-		},
-		{
-			"number" : "919",
-			"description" : "Red Copper",
-			"length" : 9.5,
-			"length units" : "inches"
-		},
-		{
-			"number" : "301",
-			"description" : "Mahogany medium",
-			"length" : 16.8,
-			"length units" : "inches"
-		},
-		{
-			"number" : "350",
-			"description" : "Coral medium",
-			"length" : 15.6,
-			"length units" : "inches"
-		},
-		{
-			"number" : "606",
-			"description" : "Burnt Orange-Red",
-			"length" : 24.6,
-			"length units" : "inches"
-		},
-		{
-			"number" : "3340",
-			"description" : "Apricot medium",
-			"length" : 17.5,
-			"length units" : "inches"
-		},
-		{
-			"number" : "3825",
-			"description" : "Pumpkin pale",
-			"length" : 24.1,
-			"length units" : "inches"
-		},
-		{
-			"number" : "741",
-			"description" : "Tangerine medium",
-			"length" : 9.7,
-			"length units" : "inches"
-		},
-		{
-			"number" : "3852",
-			"description" : "Straw very dark",
-			"length" : 18.3,
-			"length units" : "inches"
-		},
-		{
-			"number" : "3774",
-			"description" : "Desert Sand very light",
-			"length" : 11.2,
-			"length units" : "inches"
-		},
-		{
-			"number" : "746",
-			"description" : "Off White",
-			"length" : 46.3,
-			"length units" : "inches"
-		},
-		{
-			"number" : "834",
-			"description" : "Golden Olive very light",
-			"length" : 19.8,
-			"length units" : "inches"
-		},
-		{
-			"number" : "733",
-			"description" : "Olive Green medium",
-			"length" : 5.3,
-			"length units" : "inches"
-		},
-		{
-			"number" : "827",
-			"description" : "Blue very light",
-			"length" : 22.9,
-			"length units" : "inches"
-		},
-		{
-			"number" : "3760",
-			"description" : "Wedgewood",
-			"length" : 23.2,
-			"length units" : "inches"
-		},
-		{
-			"number" : "964",
-			"description" : "Sea Green light",
-			"length" : 36.3,
-			"length units" : "inches"
-		},
-		{
-			"number" : "959",
-			"description" : "Sea Green medium",
-			"length" : 20.5,
-			"length units" : "inches"
-		},
-		{
-			"number" : "3812",
-			"description" : "Sea Green very dark",
-			"length" : 3.9,
-			"length units" : "inches"
-		},
-		{
-			"number" : "3609",
-			"description" : "Plum ultra light",
-			"length" : 16.1,
-			"length units" : "inches"
-		},
-		{
-			"number" : "152",
-			"description" : "Shell Pink medium",
-			"length" : 25.3,
-			"length units" : "inches"
-		},
-		{
-			"number" : "3805",
-			"description" : "Cyclamen Pink",
-			"length" : 4.9,
-			"length units" : "inches"
-		},
-		{
-			"number" : "917",
-			"description" : "Plum medium",
-			"length" : 10.7,
-			"length units" : "inches"
-		},
-		{
-			"number" : "3803",
-			"description" : "Mauve medium",
-			"length" : 16.3,
-			"length units" : "inches"
-		},
-		{
-			"number" : "168",
-			"description" : "Pewter very light",
-			"length" : 58.5,
-			"length units" : "inches"
-		},
-		{
-			"number" : "B5200",
-			"description" : "Snow White",
-			"length" : 72.5,
-			"length units" : "inches"
-		}
-	]
+{
+  "name": "Pretty Little San Francisco",
+  "designer": "Satsuma Street",
+  "thread brand": "DMC",
+  "colors": [
+    "3371",
+    "919",
+    "301",
+    "350",
+    "606",
+    "3340",
+    "3825",
+    "741",
+    "3852",
+    "3774",
+    "746",
+    "834",
+    "733",
+    "827",
+    "3760",
+    "964",
+    "959",
+    "3812",
+    "3609",
+    "152",
+    "3805",
+    "917",
+    "3803",
+    "168",
+    "B5200"
+  ]
 }

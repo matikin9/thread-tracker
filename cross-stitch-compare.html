@@ -15,13 +15,15 @@
 	</ul>
 
 	<script>
-		$().ready(function() {
+		$(document).ready(function() {
 			var json_dc = "../data/pretty-little-dc.json";
 			var json_sf = "../data/pretty-little-san-francisco.json";
 			var json_hk = "../data/pretty-little-hk.json";
 			var json_chicago = "../data/pretty-little-chicago.json";
+			var fileArr = [json_dc, json_sf, json_hk]; 
 
-			compare_cross_stitch_json(json_chicago, json_hk);
+			find_unique_colors(fileArr);
+
 		});
 	</script>
 </body>
