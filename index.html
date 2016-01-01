@@ -2,27 +2,30 @@
 <html>
 
 <head>
-	<title>Cross-Stitch Compare</title>
+	<title>Thread Color Tracking and Comparison Tool</title>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 	<script src="script/script.js"></script>
 </head>
 
 <!-- TODO: Integrate Foundation -->
+
 <body>
-	<div class="intro">
-	</div>
-	<h1>Unique Colors</h1>
+	<h1>Thread Color Tracking & Comparison Tool</h1>
+	<h2>Unique Colors</h2>
 	<ul id="uniqueColors">
 	</ul>
-	<h1>Needed Colors</h1>
+	<hr />
+	<h2>Needed Colors</h2>
 	<ul id="neededColors">
 	</ul>
+	<hr />
 
 	<script>
 		$(document).ready(function() {
-			var sample1 = "../data/sample1.json";
-			var sample2 = "../data/sample2.json";
-			var sample3 = "../data/sample3.json";
+			var dataDirectory = "../data/";
+			var sample1 = dataDirectory + "sample1.json";
+			var sample2 = dataDirectory + "sample2.json";
+			var sample3 = dataDirectory + "sample3.json";
 			var fileArr = [sample2, sample1, sample3];
 
 			display_unique_colors(fileArr);
