@@ -8,16 +8,14 @@ The designer who's work inspired me to get into cross stitch is Jody Rice of [Sa
 
 This project will allow you to:
 
-* Generate a JSON file representing a pattern or set of thread colors using my attempt at a standard format:
+* Generate a JSON file representing a pattern or set of thread colors.  Currently, the only requirement is that the JSON file contain an object with an element named "colors" and is an array of strings.
 
 ```javascript
 {
   name: "<NAME-optional>",
   designer: "<DESIGNER-optional>",
   colors: [
-    {
-      number: <NUMBER>,
-      description: "<DESCRIPTION-optional>"
+      <NUMBER-string>,
     },
     ...
   ]
