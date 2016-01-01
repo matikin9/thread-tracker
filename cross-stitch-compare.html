@@ -11,19 +11,22 @@
 <body>
 	<div class="intro">
 	</div>
-	<ul class="log">
+	<h1>Unique Colors</h1>
+	<ul id="uniqueColors">
+	</ul>
+	<h1>Needed Colors</h1>
+	<ul id="neededColors">
 	</ul>
 
 	<script>
 		$(document).ready(function() {
-			var json_dc = "../data/pretty-little-dc.json";
-			var json_sf = "../data/pretty-little-san-francisco.json";
-			var json_hk = "../data/pretty-little-hk.json";
-			var json_chicago = "../data/pretty-little-chicago.json";
-			var fileArr = [json_dc, json_sf, json_hk]; 
+			var sample1 = "../data/sample1.json";
+			var sample2 = "../data/sample2.json";
+			var sample3 = "../data/sample3.json";
+			var fileArr = [sample2, sample1, sample3];
 
-			find_unique_colors(fileArr);
-
+			display_unique_colors(fileArr);
+			display_colors_needed(fileArr);
 		});
 	</script>
 </body>
